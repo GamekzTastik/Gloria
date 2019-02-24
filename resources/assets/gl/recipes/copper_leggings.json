@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "gl:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "gl:copper_leggings",
+    "count": 1
+  }
+}

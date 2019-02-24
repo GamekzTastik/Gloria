@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "gl:items/reinforcedleather_helmet",
+        "layer1": "gl:items/reinforcedleather_helmet_overlay"
+    }
+}

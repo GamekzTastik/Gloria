@@ -1,0 +1,44 @@
+//Items
+item.copper_ingot.name=Copper Ingot
+item.chain.name=Chain
+
+//Tabs
+itemGroup.gloriamaterialtab=Gloria Materials
+itemGroup.gloriablocktab=Gloria Blocks
+itemGroup.gloriacombattab=Gloria Combat
+
+//Blocks
+tile.ore_copper.name=Copper Ore
+tile.block_copper.name=Block of Copper
+
+//Armour
+item.copper_helmet.name=Copper Helmet
+item.copper_chestplate.name=Copper Chestplate
+item.copper_leggings.name=Copper Leggings
+item.copper_boots.name=Copper Boots
+
+item.emerald_helmet.name=Emerald Helmet
+item.emerald_chestplate.name=Emerald Chestplate
+item.emerald_leggings.name=Emerald Leggings
+item.emerald_boots.name=Emerald Boots
+
+item.reinforcedleather_helmet.name=Reinforced Leather Helmet
+item.reinforcedleather_chestplate.name=Reinforced Leather Chestplate
+item.reinforcedleather_leggings.name=Reinforced Leather Leggings
+item.reinforcedleather_boots.name=Reinforced Leather Boots
+
+
+
+
+//Tools
+item.copper_axe.name=Copper Axe
+item.copper_hoe.name=Copper Hoe
+item.copper_pickaxe.name=Copper Pickaxe
+item.copper_shovel.name=Copper Shovel
+item.copper_sword.name=Copper Sword
+
+item.copper_axe.name=Emerald Axe
+item.copper_hoe.name=Emerald Hoe
+item.copper_pickaxe.name=Emerald Pickaxe
+item.copper_shovel.name=Emerald Shovel
+item.copper_sword.name=Emerald Sword
